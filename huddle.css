@@ -1,0 +1,95 @@
+.page{
+    width:1440dvw;
+
+}
+footer{
+    background-color: hsl(192, 100%, 9%);
+    font-size:40px;
+    color:azure;
+    h2{
+        text-align: center;
+    }
+}
+#first{
+    width:17dvw;
+    height:18dvh;
+    style="float:right";
+}
+.main{
+    background-image: url(bg-hero-desktop.svg);
+    height: 70dvh;
+    display:flex;
+    flex-direction: row;
+    .first{
+        float:right;
+    }
+#navbar{
+    height:10dvh;
+    width:10dvw;
+}
+
+}
+#try{
+    color:black;
+    background-color: white;
+    border: none;
+    padding: 20px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+        
+    }
+
+h1{
+    font-size: 40px;
+}
+.navbar{
+    display:flex;
+    flex-direction: row;
+    gap:10px;
+}
+.home{
+    display:flex;
+    flex-direction: column;
+}
+.flow{
+    font-size:40px;
+    display:flex;
+    flex-direction: column;
+    box-shadow: 10px 10px;
+    gap:10px;
+    padding:20px 20px;
+
+
+}
+.grow{
+    font-size:40px;
+    display:flex;
+    flex-direction: column;
+    box-shadow: 10px 10px;
+    gap:10px;
+    padding:20px 20px;
+
+
+
+}
+.users{
+    font-size:40px;
+    display:flex;
+    flex-direction: column;
+    box-shadow: 10px 10px;
+    gap:10px;
+    padding:20px 20px;
+
+
+
+}
+footer{
+    display:flex;
+    flex-direction: row;
+    /* gap:10px; */
+}
